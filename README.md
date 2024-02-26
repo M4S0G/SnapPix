@@ -2,9 +2,9 @@
 Description:
 SnapPix is an innovative social media application that enables users to share photos in real-time. Inspired by popular social platforms like Instagram, SnapPix offers a simple and intuitive platform for sharing life moments, browsing other users' content, and interacting with them.
 Key Features:
-* 		Photo Sharing: Users can easily share their favorite moments by posting photos through a simple interface.
-* 		Likes and Comments: Users can express appreciation for other users' content by liking and commenting on photos.
-* 		User Profile: Each user has a profile where all published content and information about them can be found. Additionally, users can follow other profiles to stay updated with their content.
+<li>		Photo Sharing: Users can easily share their favorite moments by posting photos through a simple interface. </li> 
+ 		Likes and Comments: Users can express appreciation for other users' content by liking and commenting on photos.
+ 		User Profile: Each user has a profile where all published content and information about them can be found. Additionally, users can follow other profiles to stay updated with their content.
 Technology:
 SnapPix is built using the latest web and mobile technologies to ensure performance, scalability, and security. The application utilizes cloud technology for data storage and advanced image processing algorithms.
 Goal:
