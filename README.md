@@ -62,5 +62,79 @@ Nasza wizja dla SnapPix to stworzenie globalnej społeczności, w której ludzie
     <li> Display the number of likes and comments on each photo.</li> 
 <li>		Like/Dislike Photos</li> 
 
+---
+
+# Introduction to SnapPix Project Documentation
+
+## Purpose of the Document
+
+The purpose of this document is to outline the comprehensive framework for the SnapPix application, a cutting-edge social media platform for real-time photo sharing. This document aims to serve as a guide for developers, project managers, and stakeholders involved in the project, providing detailed insights into the project's scope, functionalities, technical specifications, and implementation strategies.
+
+## Project Overview
+
+SnapPix is an innovative social media application that enables users to share and interact with photos in real-time. Drawing inspiration from popular platforms such as Instagram, SnapPix is designed to offer a user-friendly interface for capturing life's moments, exploring content from other users, and fostering a community through likes, comments, and follows. The application is built on the latest web and mobile technologies, ensuring high performance, scalability, and security.
+
+### Definitions
+
+- **User Profile:** A dedicated space displaying the user's published content and personal information.
+- **Cloud Technology:** Backend infrastructure that provides data storage and computing resources over the internet.
+- **Image Processing Algorithms:** Computer algorithms that perform operations on images to improve quality, resize, or compress them.
+
+## Functional Requirements
+
+1. **User Authentication:**
+   - Users must be able to register for a new account and log in securely.
+   - The system must implement password protection for user accounts.
+
+2. **Photo Sharing:**
+   - Users should be able to upload photos to their profiles.
+   - The application must support image resizing and compression for optimized storage and loading times.
+
+3. **Interactions:**
+   - Users must be able to like and comment on photos.
+   - The system should display the number of likes and comments on each photo.
+
+4. **User Profiles:**
+   - Users should have personal profiles displaying their uploaded photos and information.
+   - The application must allow users to follow other profiles.
+
+## Non-functional Requirements
+
+1. **Performance:** The application must load and respond quickly to user interactions.
+2. **Scalability:** The system should be capable of handling a growing number of users and data without degradation in performance.
+3. **Security:** Data protection measures must be in place to secure user data and prevent unauthorized access.
+4. **Usability:** The user interface should be intuitive and easy to navigate for a wide range of users.
+
+## System Architecture (UML Diagrams)
+
+The document will include UML diagrams such as:
+- **Class Diagram:** To represent the structure of the system by showing the system's classes, their attributes, and the relationships between the classes.
+- **Sequence Diagram:** To depict the sequence of operations that occur during a particular functionality or process within the application.
+- **Component Diagram:** To illustrate the organization and dependencies among a set of components.
+
+## User Interface Design
+
+The user interface design section will provide mockups and descriptions for key screens within the application, including:
+- Login/Registration Page
+- Home Page
+- User Profile
+- New Photo Upload Screen
+- Profile Editing Screen
+
+## APIs Utilized
+
+This section will outline the external and internal APIs used by SnapPix, including:
+- Cloud storage services for photo storage.
+- Image processing services for optimizing photo uploads.
+- Authentication services for secure login and registration processes.
+
+## Testing Strategy
+
+The document will detail the testing methodologies and tools used to ensure the application's functionality, performance, and security. This includes unit testing, integration testing, and security testing procedures.
+
+---
+
+This structure outlines a comprehensive approach to documenting the SnapPix project, ensuring clarity and direction for all project stakeholders.
+
 
 
